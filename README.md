@@ -235,7 +235,12 @@ Sumber: Rahmi, F. and Wibisono, Y. (2016). "Aplikasi SMS Spam Filtering pada And
 
 ## 👥 Tim
 
-**Machine Learning Final Project 2025**
+**Universitas Sam Ratulangi - Machine Learning 2025**
+
+| Nama | NIM |
+|------|-----|
+| Graciano Paulus Tilaar | 230211060031 |
+| Kresando Seon | 230211060108 |
 
 ---
 
