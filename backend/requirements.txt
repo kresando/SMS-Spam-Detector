@@ -1,0 +1,17 @@
+# FastAPI & Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Machine Learning
+scikit-learn==1.6.0
+pandas==2.2.3
+numpy==2.2.0
+joblib==1.4.2
+
+# Indonesian NLP
+Sastrawi==1.0.1
+nltk==3.9.1
+
+# CORS
+python-dotenv==1.0.1
